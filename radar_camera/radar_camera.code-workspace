@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../lane_msgs"
+		},
+		{
+			"path": "../lane_detection_visualization"
+		},
+		{
+			"path": "../lane_detection_data_loader"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
