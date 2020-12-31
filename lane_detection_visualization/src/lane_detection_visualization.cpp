@@ -79,7 +79,7 @@ public:
             ma_left_lane.points.push_back(point);
         }
 
-        //// create marker of type LINE_STRIP for left lane
+        //// create marker of type LINE_STRIP for right lane
         ma_right_lane.header.stamp = this->now();
         ma_right_lane.header.frame_id = "map";
         ma_right_lane.id = 1;
